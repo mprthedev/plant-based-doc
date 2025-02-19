@@ -1,0 +1,19 @@
+/**
+ * Theme Name: earth-theme
+ * Template: twentytwentyone
+ * Description: A earth-themed theme, emphasis on green
+ * Version: 1.0.0
+ * Author: New Flower Productions  
+ */
+
+@import "./assets/styles/typography.css";
+
+body.home {
+/*	background: linear-gradient(#8DDC1F, #70AE19, #82D2D9);*/
+/*	background: linear-gradient(#d1e4dd, #82D2D9, #8DDC1F);*/
+}
+
+h1 {
+	outline: 10px solid lime;
+}
+
